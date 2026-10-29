@@ -1,0 +1,16 @@
+Department,Month,Patient_Volume,Average_Wait_Minutes,Cancelled_or_Delayed,Resource_Utilization_Pct,Patient_Feedback_1_to_5,Staffing_FTE,Available_Equipment_Units,Equipment_Demand_Units
+Emergency,Jan,420,168,42,78,3.8,10,7,6
+Emergency,Feb,405,162,39,76,3.9,10,7,6
+Emergency,Mar,438,181,45,74,3.6,11,7,6
+Outpatient,Jan,510,82,18,88,4.1,8,6,5
+Outpatient,Feb,525,79,17,89,4.2,8,6,5
+Outpatient,Mar,548,91,20,86,3.9,9,6,5
+Radiology,Jan,260,55,12,91,4.3,6,5,4
+Radiology,Feb,274,59,13,90,4.2,6,5,4
+Radiology,Mar,281,64,14,88,4.0,7,5,4
+Laboratory,Jan,390,48,9,94,4.4,7,6,5
+Laboratory,Feb,405,51,10,93,4.3,7,6,5
+Laboratory,Mar,418,56,11,92,4.2,7,6,5
+Surgery,Jan,118,105,16,82,4.0,8,7,6
+Surgery,Feb,123,112,17,80,3.9,8,7,6
+Surgery,Mar,127,119,18,78,3.7,9,7,6
